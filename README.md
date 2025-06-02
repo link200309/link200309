@@ -21,7 +21,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats 🧋:
 <p align="center">
   <a href="https://github.com/link200309">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=link200309&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
