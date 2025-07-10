@@ -15,7 +15,7 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Upwork-494949?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork" />
     </a>
-    <a href="jonhh.0023@gmail.com">
+    <a href="mailto:jonhh.0023@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </div>
