@@ -1,28 +1,44 @@
 <div align="center">
     <img src="https://i.gifer.com/Z6W9.gif" alt="Funny Coding GIF" height="300">
 </div>
+
 <div align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&size=32">
-</a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&size=32">
+    </a>
 </div>
+
 <div align="center">
-    <a href="https://www.linkedin.com/in/john-henry-chavarria-zurita-787343289"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-    <a href=""><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-    <a href=""><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+    <a href="https://www.linkedin.com/in/john-henry-chavarria-zurita-787343289">
+        <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Upwork-494949?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork" />
+    </a>
+    <a href="jonhh.0023@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
 </div>
-<br>
-<br>
-
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean.<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes....<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know? They say I'm 'lazy', but I have a knack for getting things done in style.
 
 <br>
-<br>
 
+## 🚀 About Me
 
-# 💻 Tech Stack 🥇:
+<p>
+    <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Coding Animation" />
+</p>
+
+I'm a passionate **Full Stack Developer** who loves creating innovative solutions that connect the digital world. My focus is on building robust web applications and exceptional user experiences.
+
+- 🌱 **Currently learning:** Diving deeper into React and exploring the backend ecosystem
+- 💻 **Specialty:** Full Stack Development with emphasis on modern web technologies
+- 🎯 **Goal:** Create applications that solve real problems and generate positive impact
+- 🤝 **Collaboration:** Always open to interesting projects and technical challenges
+- ⚡ **Fun fact:** I believe programming is an art where efficiency and creativity meet
+
+<br clear="right"/>
+
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,16 +56,19 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
-## 📊 GitHub Stats 🧋:
-<p align="center">
-  <a href="https://github.com/link200309">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=link200309&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=link200309&layout=compact&langs_count=8&theme=algolia">
-  </a>
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=link200309&theme=algolia&hide_border=false"/>
-</p>
+<div align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=link200309&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=link200309&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages">
+</div>
 
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=link200309&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+</div>
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=link200309&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
