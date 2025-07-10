@@ -1,6 +1,25 @@
-# 💫 About Me:
+<div align="center">
+    <img src="https://i.gifer.com/Z6W9.gif" alt="Funny Coding GIF" height="300">
+</div>
+<div align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&size=32">
+</a>
+</div>
+<div align="center">
+    <a href="https://www.linkedin.com/in/john-henry-chavarria-zurita-787343289"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+</div>
+<br>
+<br>
+
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean.<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes....<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know? They say I'm 'lazy', but I have a knack for getting things done in style.
 
+<br>
+<br>
 
 
 # 💻 Tech Stack 🥇:
