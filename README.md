@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.gifer.com/2Qv5.gif" alt="Funny Coding GIF" width="190" height="190">
+    <img src="https://i.gifer.com/2Qv5.gif" alt="Funny Coding GIF" width="170" height="170">
 </div>
 
 <div align="center">
