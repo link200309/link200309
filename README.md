@@ -25,7 +25,7 @@
 ## 🚀 About Me
 
 <p>
-    <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Coding Animation" />
+    <img align="right" height="250" width="350" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Coding Animation" />
 </p>
 
 I'm a passionate **Full Stack Developer** who loves creating innovative solutions that connect the digital world. My focus is on building robust web applications and exceptional user experiences.
