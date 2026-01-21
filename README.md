@@ -12,10 +12,13 @@
     <a href="https://www.linkedin.com/in/john-henry-chavarria-zurita-787343289">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Upwork-494949?style=for-the-badge&logo=upwork&logoColor=white" alt="UpWork" />
-    </a>
-    <a href="mailto:jonhh.0023@gmail.com">
+    <a href="https://portafolio-johnh.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge"
+      alt="Portfolio"
+    />
+  </a>
+    <a href="mailto:chavarriajohn08@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </div>
@@ -75,11 +78,19 @@ I'm a passionate **Full Stack Developer** who loves creating innovative solution
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=link200309&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=link200309&theme=algolia&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
+
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=link200309&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=link200309&theme=algolia&no-frame=true&margin-w=15"
+    alt="GitHub Trophies"
+  />
 </div>
+
