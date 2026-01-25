@@ -72,25 +72,19 @@ I'm a passionate **Full Stack Developer** who loves creating innovative solution
 
 ## 📊 GitHub Stats
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=link200309&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=link200309&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages">
-</div>
+<p align="center">
+  <a href="https://github.com/link200309">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=link200309&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=link200309&layout=compact&langs_count=8&theme=algolia&border_radius=10">
+  </a>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=link200309&theme=algolia&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=link200309&theme=algolia&hide_border=true"
-    alt="GitHub Streak"
-  />
-</div>
-
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=link200309&theme=algolia&no-frame=true&margin-w=15"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=link200309&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity graph" />
 </div>
 
