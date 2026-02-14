@@ -9,10 +9,10 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/john-henry-chavarria-zurita-787343289">
+    <a href="https://www.linkedin.com/in/john-henry-chavarria-zurita-787343289" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://portafolio-johnh.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <a href="https://portfolio-johnhenry.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge"
       alt="Portfolio"
