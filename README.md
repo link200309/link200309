@@ -31,13 +31,12 @@
     <img align="right" height="250" width="350" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Coding Animation" />
 </p>
 
-I'm a passionate **Full Stack Developer** who loves creating innovative solutions that connect the digital world. My focus is on building robust web applications and exceptional user experiences.
+Full Stack Developer & Systems Engineering student.
 
-- 🌱 **Currently learning:** Diving deeper into React and exploring the backend ecosystem
-- 💻 **Specialty:** Full Stack Development with emphasis on modern web technologies
-- 🎯 **Goal:** Create applications that solve real problems and generate positive impact
-- 🤝 **Collaboration:** Always open to interesting projects and technical challenges
-- ⚡ **Fun fact:** I believe programming is an art where efficiency and creativity meet
+- 🌱 Building web applications with React & Next.js.
+- 💻 Currently learning backend development & system design.
+- 🎯 Interested in creating useful and scalable software.
+- 🤝 I enjoy programming, chess & philosophy.
 
 <br clear="right"/>
 
